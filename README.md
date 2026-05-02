@@ -9,4 +9,4 @@
 
 -   **Ancien compte** J'ai malheureusement perdu l'accès à mon compte historique **`@eje019`** : [text](https://github.com/eje019/eje019) suite à un piratage. La plupart de mes premiers projets s'y trouvent.
 
--   **🚀 Ce compte :** Représente l'ensemble de mon travail actuel et futur.
+-   **Ce compte  :** Représente l'ensemble de mon travail actuel et futur.
